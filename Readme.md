@@ -16,11 +16,11 @@ More notebooks will be added as I continue exploring new datasets and working on
 
 ## 🎯 Objectives
 
-* Explore and understand real-world datasets
-* Practice data cleaning and preprocessing
-* Perform Exploratory Data Analysis (EDA)
-* Build and evaluate machine learning models
-* Improve practical problem-solving skills
+* Explore and understand real-world datasets.
+* Practice data cleaning and preprocessing.
+* Perform Exploratory Data Analysis (EDA).
+* Build and evaluate machine learning models.
+* Improve practical problem-solving skills.
 
 ## 👨‍💻 Author
 
@@ -30,4 +30,4 @@ More notebooks will be added as I continue exploring new datasets and working on
 
 ---
 
-⭐ Thank you for visiting this repository. Feel free to explore the notebooks and follow my learning journey as I continue working on more Kaggle datasets and Machine Learning projects.
+⭐ Thank you for visiting this repository. Feel free to explore the notebooks and follow my learning journey as I continue working on more Kaggle datasets and Machine Learning projects
